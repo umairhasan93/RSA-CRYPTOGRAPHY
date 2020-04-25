@@ -6,5 +6,3 @@ DISCRIPTION : RSA is an algorithm use by modern computers to encrypt and dcrypt 
   Asymmetric means that there are two different keys. This is also called public key cryptography,because one of the key is can be given     to anyone. The other key must be kept private.  
  
  PROGRAMMING LANGUAGE : C#
- 
- GROUP LEADER : Samad Shahid (63590)
