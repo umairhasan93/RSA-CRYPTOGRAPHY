@@ -1,0 +1,10 @@
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe.config
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.pdb
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csprojAssemblyReference.cache
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.Form1.resources
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.Properties.Resources.resources
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csproj.GenerateResource.cache
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.exe
+C:\Users\umair\Source\Repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.pdb
